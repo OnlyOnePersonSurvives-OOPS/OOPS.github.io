@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-20T00:02:09+09:00</updated><id>/feed.xml</id><title type="html">OOPS!!</title><subtitle>아주 자그마한 게임 개발 프로젝트!!</subtitle><author><name>박이선과 두합씨여 봦자</name></author><entry><title type="html">[개발환경] 부팅 USB 설치하는 법</title><link href="/wiki/wiki/" rel="alternate" type="text/html" title="[개발환경] 부팅 USB 설치하는 법" /><published>2021-01-19T00:00:00+09:00</published><updated>2020-01-19T00:00:00+09:00</updated><id>/wiki/wiki</id><content type="html" xml:base="/wiki/wiki/">&lt;h1 id=&quot;부팅-usb-조건&quot;&gt;부팅 usb 조건&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;김건호 얼굴&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>박이선과 두합씨여 봦자</name></author><category term="WIKI" /><summary type="html">usb에 Lubuntu os 설치하기</summary></entry><entry><title type="html">2021.01.19(Tue)</title><link href="/til/til/" rel="alternate" type="text/html" title="2021.01.19(Tue)" /><published>2021-01-19T00:00:00+09:00</published><updated>2020-01-19T00:00:00+09:00</updated><id>/til/til</id><content type="html" xml:base="/til/til/">&lt;h1 id=&quot;이창하&quot;&gt;이창하&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;삽질&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;김건호&quot;&gt;김건호&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;배재한 얼굴 가지고 삽질&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>박이선과 두합씨여 봦자</name></author><category term="TIL" /><summary type="html">Today, I learned again</summary></entry></feed>

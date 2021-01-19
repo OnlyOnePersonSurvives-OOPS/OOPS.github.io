@@ -1,0 +1,14 @@
+I"�<h2 id="whole-back-logs">Whole Back-logs</h2>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />프로젝트 기간동안 땅에서 100원씩 파내기</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />1주일에 한 번 머리에 물 주기</li>
+  <li class="task-list-item">.</li>
+  <li class="task-list-item">.</li>
+  <li class="task-list-item">.</li>
+</ul>
+
+<h2 id="sprints">Sprints</h2>
+<ul>
+  <li><a href="https://github.com/orgs/OnlyOnePersonSurvives-OOPS/projects/1">sprint00 - 2021/01/15 ~ 2021/01/22</a></li>
+</ul>
+:ET

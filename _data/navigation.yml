@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Category"
-    url: /categories/
+  - title: "Project"
+    url: /project/
+  - title: "TIL"
+    url: /categories/TIL/
+  - title: "우리들의 WIKI"
+    url: /categories/WIKI/
   - title: "Member"
     url: /member/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/git 
+  - title: "Categories"
+    url: /categories/
